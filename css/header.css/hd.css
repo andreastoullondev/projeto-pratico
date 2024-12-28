@@ -16,7 +16,7 @@ header{
     float: left;
 }
 /*não esta funcionando tenho que arrumar*/
-nav.menu-desktop li.selected{font-weight: bold;}
+nav.menu-desktop li.selected{font-weight: bold; text-decoration: underline;}
 nav.menu-desktop{
     float: right;
 }
