@@ -1,0 +1,16 @@
+/*era para ser a sessao main porem vou criar outra no final do projeto*/
+
+
+section.ctd{
+    width: 100%;
+    height: 1000px;
+    background: url(/css/img/download\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% -100px; /* A imagem será centralizada horizontalmente e movida 100px para cima */
+
+}
+
+.ctd {
+    color: red;
+}
