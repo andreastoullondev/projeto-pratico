@@ -4,6 +4,7 @@
 section.ctd{
     width: 100%;
     height: 1000px;
+    padding: 250px 0;
     background: url(/css/img/download\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,6 +12,10 @@ section.ctd{
 
 }
 
-.ctd {
-    color: red;
+
+section.ctd h2{ 
+    color: aqua;
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
 }
