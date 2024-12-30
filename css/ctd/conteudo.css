@@ -9,13 +9,19 @@ section.ctd{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% -100px; /* A imagem será centralizada horizontalmente e movida 100px para cima */
-
+    text-align: center;
 }
 
 
 section.ctd h2{ 
     color: aqua;
-    text-align: center;
     font-size: 30px;
     font-weight: normal;
+}
+
+section.ctd p{
+    text-align: left;
+    color: chartreuse;
+    font-size: 18px;
+    margin-top: 20px;
 }
